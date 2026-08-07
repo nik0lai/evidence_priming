@@ -1,0 +1,2 @@
+Hypothesis,Estimate,Est.Error,CI.Lower,CI.Upper,Evid.Ratio,Post.Prob,Star
+(`participant:task__soa_c:taskprime`)-(`participant:task__soa_c:taskmask`) > 0,3.833565304270178,4.039555045468844,-2.409787728701418,10.344512215413038,6.005253940455342,0.85725,
